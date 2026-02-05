@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ella-palacios
-- 👀 I’m interested in Data Science with applications in the biological and ecological sciences
-- 🌱 I’m currently learning java script! 
 - 📫 How to reach me: https://www.linkedin.com/in/ella-palacios-m-s-3358081a4/
 - ⚡ Fun fact: My favorite part of any hike is the uphill.  
 
